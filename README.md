@@ -5,7 +5,7 @@
 🚀 Focused on:
 - LLMs & Prompt Engineering
 - Retrieval-Augmented Generation (RAG)
-- LangChain, FAISS, OpenAI APIs
+- LangChain, OpenAI APIs
 
 🧠 Currently working on internal tools to evaluate and route financial insights using large language models.
 

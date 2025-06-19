@@ -1,12 +1,27 @@
-### 👋 Hi, I'm Rohan!
+<!-- Center Everything -->
+<div align="center">
 
-🎓 Gen AI Intern @ Traderverse (Team: Gen AI)
+<img src="https://i.postimg.cc/bvTGCVc1/Stock-Market-DP-Youtube.jpg" width="150" style="border-radius: 50%; border: 2px solid #1a73e8;" />
 
-🚀 Focused on:
-- LLMs & Prompt Engineering
-- Retrieval-Augmented Generation (RAG)
-- LangChain, FAISS, OpenAI APIs
+# 🙌 Hi, I'm Rohan Kumar Katkam  
+### 🚀 Gen AI Intern @ Traderverse | Team: Gen AI
 
-🧠 Currently working on internal tools to evaluate and route financial insights using large language models.
+🎓 Master's in Data Science @ University of Memphis  
+📍 Based in USA | 🌐 work@rkatkam.com
 
-📫 Reach me at: [r.katkam@traderverse.io](mailto:r.katkam@traderverse.io)
+---
+
+### 🧠 What I Work On
+
+💡 Building powerful RAG systems with  
+→ **LangChain**, **OpenAI**, **FAISS**, **Chroma**, **FastAPI**
+
+📊 Exploring multi-agent workflows, LLM routing, evaluation frameworks  
+🧪 Focused on **Gen AI tools**, **retrieval**, and **production-ready pipelines**
+
+---
+
+### 🛠️ Tech Stack
+
+```python
+Python | FastAPI | LangChain | OpenAI | AWS | FAISS | Chroma | React.js | HTML/CSS/JS | SQL | Power BI | R
